@@ -1,0 +1,4 @@
+alive-progress==3.2.0
+musicbrainzngs==0.7.1
+tinytag==2.0.0
+torf==4.2.7
